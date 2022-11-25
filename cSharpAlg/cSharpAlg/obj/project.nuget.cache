@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "He8m/Z/ysHLrvjWl+emnW8ufdYVk7gzzxGgzJlMC6DV8k9Vj8XtyjxJ8MCiOjrHlPZ5y/J5zTW9ksrw70b4R5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HUAWEI\\source\\repos\\cSharpAlg\\cSharpAlg\\cSharpAlg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

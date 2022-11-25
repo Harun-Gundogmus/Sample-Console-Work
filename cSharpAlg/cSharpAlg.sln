@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpAlg", "cSharpAlg\cSharpAlg.csproj", "{DF80EA91-724C-4F46-8810-B7C9A7DBE148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF80EA91-724C-4F46-8810-B7C9A7DBE148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF80EA91-724C-4F46-8810-B7C9A7DBE148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF80EA91-724C-4F46-8810-B7C9A7DBE148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF80EA91-724C-4F46-8810-B7C9A7DBE148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B5875F-56B1-4180-A9F7-271AAA447003}
+	EndGlobalSection
+EndGlobal
